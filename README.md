@@ -259,8 +259,6 @@ Your LMS API is now **discoverable**, **professional**, and ready for real‑wor
 
 In **Part 6**, we will explore:
 
-- Authentication (Token, JWT, Sessions)
-- Permission classes
-- Role‑based access control
+- Signals!
 
 Stay tuned!
